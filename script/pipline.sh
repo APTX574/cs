@@ -43,8 +43,8 @@ REPETITION_PENALTY=1.2
 # --- Paths ---
 # Default names for the python utility scripts
 GENERATION_SCRIPT="vector.py"
-EVALUATION_SCRIPT="evaluate_with_gpt.py"
-ANALYSIS_SCRIPT="analyze_results.py"
+EVALUATION_SCRIPT="evaluate_with_gpt_v2.py"
+ANALYSIS_SCRIPT="analyze_results_v2.py"
 RESULTS_DIR="./results"
 
 # ========================== Argument Parsing ==========================
